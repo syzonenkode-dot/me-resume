@@ -1,17 +1,29 @@
-ul {
-    list-style: none;
-}
-
 .nav {
     padding: 15px;
     background-color: green;
     display: flex;
-    justify-content: right;
+    justify-content: end;
+    gap: 20px;
+    list-style: none;
+
 
 }
 
+.info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    flex-direction: column;
+
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
 .hobby {
-    background-color: blue;
+    background-color: rgb(157, 157, 179);
 }
 
 .info {
