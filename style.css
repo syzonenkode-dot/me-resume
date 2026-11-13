@@ -1,0 +1,23 @@
+ul {
+    list-style: none;
+}
+
+.nav {
+    padding: 15px;
+    background-color: green;
+    display: flex;
+    justify-content: right;
+
+}
+
+.hobby {
+    background-color: blue;
+}
+
+.info {
+    background-color: aquamarine;
+}
+
+.adresse {
+    background-color: pink;
+}
